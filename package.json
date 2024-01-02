@@ -1,0 +1,14 @@
+{
+  "name": "cursusdb-observer-node",
+  "version": "1.0.0",
+  "description": "CursusDB Observer for Node.JS",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CursusDB",
+  "license": "LGPL-3.0-only",
+  "dependencies": {
+  }
+}

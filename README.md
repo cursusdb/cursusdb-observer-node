@@ -6,6 +6,8 @@ https://www.npmjs.com/package/cursusdb-observer-node
 
 ### Example use
 ``` 
+import Observer from 'cursusdb-observer-node'
+
 let ob = new Observer("yoursharedkey")
 
 if (ob.sharedKey !== undefined) {

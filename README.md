@@ -1,6 +1,10 @@
 # CursusDB Observer for Node.JS
 
-Example use
+## npm 
+https://www.npmjs.com/package/cursusdb-observer-node
+
+
+### Example use
 ``` 
 let ob = new Observer("yoursharedkey")
 

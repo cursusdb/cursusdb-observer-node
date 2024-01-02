@@ -1,5 +1,8 @@
 # CursusDB Observer for Node.JS
 
+## About Node Observers
+https://cursusdb.com/documentation#realtime-observers
+
 ## npm 
 https://www.npmjs.com/package/cursusdb-observer-node
 

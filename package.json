@@ -1,6 +1,6 @@
 {
   "name": "cursusdb-observer-node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CursusDB Observer for Node.JS",
   "main": "main.js",
   "type": "module",

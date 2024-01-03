@@ -96,8 +96,10 @@ class Observer {
                     }
                 }
 
-                // Relay node submitted events such as insert, update, delete to emitter and emit
-                obj.events.emit('event', data.toString());
+                if (!data.toString().includes("Key:")) { // Skip relaying key as evt
+                    // Relay node submitted events such as insert, update, delete to emitter and emit
+                    obj.events.emit('event', data.toString());
+                }
             });
 
         });
